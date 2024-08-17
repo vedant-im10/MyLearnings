@@ -66,8 +66,8 @@ Welcome to my comprehensive learning journey through the "Artificial Intelligenc
   - Predictive Analytics: My projects included developing predictive models for patient outcomes, where I applied machine learning to historical patient data to forecast disease progression and treatment responses.
 
 - AI in Finance:
-  - Fraud Detection: I implemented machine learning models for detecting fraudulent transactions in financial datasets. Techniques such as anomaly detection and supervised learning were used to identify suspicious patterns and improve the security of financial systems.
-  - Algorithmic Trading: I developed trading algorithms that leveraged AI to analyze market data, predict price movements, and execute trades autonomously. This involved working with time series data and applying reinforcement learning to optimize trading strategies.
+  - Fraud Detection: I learned machine learning models for detecting fraudulent transactions in financial datasets. Techniques such as anomaly detection and supervised learning were used to identify suspicious patterns and improve the security of financial systems.
+  - Algorithmic Trading: I learned about trading algorithms that leveraged AI to analyze market data, predict price movements, and execute trades autonomously. This involved working with time series data and applying reinforcement learning to optimize trading strategies.
 
 - Autonomous Driving:
   - Perception and Control Systems: I delved into the AI technologies behind self-driving cars, focusing on how CNNs process visual inputs to recognize traffic signs, detect obstacles, and make real-time driving decisions. I also explored reinforcement learning techniques for training AI agents to navigate complex environments.
@@ -88,7 +88,7 @@ Welcome to my comprehensive learning journey through the "Artificial Intelligenc
 **3.2 Communication and Collaboration**
 
 - Technical Communication: I became adept at explaining complex AI concepts to both technical and non-technical audiences. Whether through documentation, presentations, or collaborative discussions, I learned to convey technical details clearly and effectively.
-- Team Collaboration: Working on AI projects often involved collaborating with others. I honed my ability to work as part of a team, contributing ideas, providing feedback, and integrating the work of others to achieve common goals.
+- Team Collaboration: Working on AI projects often involves collaborating with others. I honed my ability to work as part of a team, contributing ideas, providing feedback, and integrating the work of others to achieve common goals.
 
 **3.3 Adaptability and Continuous Learning**
 
@@ -137,4 +137,5 @@ Welcome to my comprehensive learning journey through the "Artificial Intelligenc
 - Safe AI Development: I studied strategies for ensuring that AI systems are developed safely and ethically. This included understanding the importance of aligning AI systems with human values and ensuring that they operate in a manner that benefits society as a whole.
 
 ## Conclusion and Future Directions
+
 The "Artificial Intelligence for Everyone" course has been a transformative experience, equipping me with a comprehensive understanding of AI, its applications, and the ethical considerations necessary for responsible development. I have developed a strong technical foundation in AI, complemented by essential behavioral skills that will serve me well in any professional setting. Moving forward, I am excited to continue exploring advanced AI topics, such as reinforcement learning, AI governance, and the ethical implications of emerging AI technologies. My goal is to apply my knowledge and skills to real-world projects that drive innovation, solve complex problems, and contribute to a better, more equitable future.
