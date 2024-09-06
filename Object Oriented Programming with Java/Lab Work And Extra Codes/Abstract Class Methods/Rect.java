@@ -1,6 +1,4 @@
-
-public class Rect extends Shape {
-    
+public class Rect extends Shape {    
 	public static void main(String[] args) {
 		Rect myrect = new Rect();
 		myrect.draw();
@@ -8,8 +6,6 @@ public class Rect extends Shape {
 
 	@Override
 	public void draw() {
-		System.out.println("Draw a rectangle");
-		
+		System.out.println("Draw a rectangle");	
 	}
-
 }
