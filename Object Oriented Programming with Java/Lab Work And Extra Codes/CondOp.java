@@ -1,6 +1,4 @@
-
 public class CondOp {
-
 	/**
 	 * @param args
 	 */
@@ -10,5 +8,4 @@ public class CondOp {
 		  out = a==b ? "Yes":"No";
 		  System.out.println("Ans: "+out);
 	}
-
 }
