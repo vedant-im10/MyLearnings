@@ -1,6 +1,4 @@
-
 public class LogicalOp {
-
 	/**
 	 * @param args
 	 */
@@ -16,7 +14,5 @@ public class LogicalOp {
 		  
 		  //Logical Not
 		  System.out.println("!(bool1 && bool2) = " + !(bool1 && bool2));
-
 	}
-
 }
