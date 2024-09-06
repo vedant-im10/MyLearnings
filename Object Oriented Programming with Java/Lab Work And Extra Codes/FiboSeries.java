@@ -1,6 +1,4 @@
-
 public class FiboSeries {
-
 	public static void main(String[] args) {
 	    int temp = 0,temp1,sum =1, iter=10;
 	    
@@ -14,8 +12,6 @@ public class FiboSeries {
         	 System.out.print(sum + " ");                         
                
              iter--;
-        }	
-        	
+        }	 	
 	}
-
 }
