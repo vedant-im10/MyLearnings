@@ -1,7 +1,4 @@
-
 public class Breakex {
-
-	
 	public static void main(String[] args) {
 		//using for loop  
 	    for(int i=1;i<=10;i++){  
@@ -12,7 +9,5 @@ public class Breakex {
 	        }  
 	        System.out.print(i + " ");  
 	    }  
-
 	}
-
 }
