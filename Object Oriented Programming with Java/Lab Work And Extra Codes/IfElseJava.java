@@ -1,4 +1,3 @@
-
 public class IfElseJava {  
     public static void main(String[] args) {  
         //defining a variable  
@@ -10,5 +9,5 @@ public class IfElseJava {
         else{  
         System.out.println("odd number");  
     }  
-}  
+  }  
 }  
