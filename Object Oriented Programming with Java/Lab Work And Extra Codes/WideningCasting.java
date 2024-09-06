@@ -1,4 +1,3 @@
-
 public class WideningCasting {
 	public static void main(String[] args) {
            int myInt = 7;
