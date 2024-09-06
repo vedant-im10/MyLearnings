@@ -1,10 +1,10 @@
 //
 //  main.c
 //
-//  Create a program to find the minimum spanning tree of a connected graph using Kruskal’s algorithm.
+//  Create a program to find the minimum spanning tree of a connected graph using Kruskalâ€™s algorithm.
 //
 //  Created by VEDANT on 04/11/20.
-//  Copyright © 2020 VEDANT. All rights reserved.
+//  Copyright Â© 2020 VEDANT. All rights reserved.
 //
 /* BY PATEL VEDANT H. - 19BCP138 - COMPUTER BRANCH */
 // Header Files included for the Program
