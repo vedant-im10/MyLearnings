@@ -1,10 +1,8 @@
 //
-//  main.c
-//
 //  Create a program to find the distance and diameter of a graph G entered by the user.
 //
 //  Created by VEDANT on 28/10/20.
-//  Copyright © 2020 VEDANT. All rights reserved.
+//  Copyright Â© 2020 VEDANT. All rights reserved.
 //
 /* BY PATEL VEDANT H. - 19BCP138 - COMPUTER BRANCH */
 import java.util.Scanner;
