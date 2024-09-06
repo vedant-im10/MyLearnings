@@ -1,9 +1,7 @@
 import java.util.Scanner;
 public class ReverseString {
 
-	
 	public static void main(String[] args) {
-		
 		int strlen,i,j;
 		char temp;
 		
@@ -15,11 +13,9 @@ public class ReverseString {
         strlen = str.length();
         j = strlen-1;
         
-        
         // convert string to character array
         char[] ch = str.toCharArray();
         System.out.println(ch);
-        
         
           for(i=0;i<strlen/2;i++)
               {temp = ch[i];
@@ -28,8 +24,6 @@ public class ReverseString {
                j--;               
               }  
           String rstr = new String(ch);
-          System.out.println("Reverse String : " + rstr);
-        
+          System.out.println("Reverse String : " + rstr);   
      }
-
 }
