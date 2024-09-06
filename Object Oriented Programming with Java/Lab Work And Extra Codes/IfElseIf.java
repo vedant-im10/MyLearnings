@@ -1,7 +1,4 @@
-
 public class IfElseIf {
-
-	
 	public static void main(String[] args) {
 		String lightcolor = "Green";
 		
@@ -13,9 +10,5 @@ public class IfElseIf {
 		
 		else if(lightcolor=="Red")	
 		{System.out.println("Stop");}	
-	
-
-	
 	}
-
 }
