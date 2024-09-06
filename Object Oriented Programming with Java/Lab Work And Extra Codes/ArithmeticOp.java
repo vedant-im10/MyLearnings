@@ -1,6 +1,4 @@
-
 public class ArithmeticOp {
-
 	/**
 	 * @param args
 	 */
@@ -27,8 +25,5 @@ public class ArithmeticOp {
 		  //Modulus Operation
 		  int rem = number1 % number2;
 		  System.out.println("Remainder is : " + rem);
-
-
 	}
-
 }
