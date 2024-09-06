@@ -1,6 +1,4 @@
-
 public class LogicalOperators {
-
 	/**
 	 * @param args
 	 */
@@ -15,5 +13,4 @@ public class LogicalOperators {
 		e = !c;
 		System.out.println(e);
 	}
-
 }
