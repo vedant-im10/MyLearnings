@@ -4,7 +4,7 @@
 //  Create a program to find the whether an Eulerian path or Eulerian cycle exists in a graph one none of them exists.
 //
 //  Created by VEDANT on 03/11/20.
-//  Copyright © 2020 VEDANT. All rights reserved.
+//  Copyright Â© 2020 VEDANT. All rights reserved.
 //
 /* BY PATEL VEDANT H. - 19BCP138 - COMPUTER BRANCH */
 // Header Files included for the Program
