@@ -1,6 +1,4 @@
-
 public class RelationalOp {
-
 	/**
 	 * @param args
 	 */
@@ -25,8 +23,5 @@ public class RelationalOp {
 
 		  //Less than or equal to
 		  System.out.println("num1 <= num2 = " + (num1 <= num2) );
-
-
 	}
-
 }
