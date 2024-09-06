@@ -1,6 +1,4 @@
-
 public class DoWhile {
-
 	/**
 	 * @param args
 	 */
@@ -9,7 +7,5 @@ public class DoWhile {
 		do
 		  {System.out.println("Every child is special");
 		   iter--;           }while(iter>0);
-
 	}
-
 }
