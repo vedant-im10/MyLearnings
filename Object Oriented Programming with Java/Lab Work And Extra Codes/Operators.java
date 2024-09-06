@@ -1,6 +1,4 @@
-
 public class Operators {
-
 	/**
 	 * @param args
 	 */
@@ -30,9 +28,6 @@ public class Operators {
         j *=n; // j = j*n
         System.out.println("j = " + j);
         j /=n; /* j = j/n  */
-        System.out.println("j = " + j);
-        
-        
+        System.out.println("j = " + j);   
 	}
-
 }
