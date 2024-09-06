@@ -1,6 +1,4 @@
-
 public class UnaryOp {
-
 	/**
 	 * @param args
 	 */
@@ -18,7 +16,5 @@ public class UnaryOp {
 
 		  int p = 6;
 		  System.out.println("p=: " + --p);
-
 	}
-
 }
