@@ -1,4 +1,3 @@
-
 public class Rectangle {
 	private double length, width; 
 
@@ -30,5 +29,4 @@ public class Rectangle {
 		myrect.getarea();
         myrect.getdimension();
 	}
-
 }
