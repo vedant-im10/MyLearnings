@@ -1,5 +1,3 @@
-
-
 public class ArrayJava {
 
    public static void main(String[] args) {
