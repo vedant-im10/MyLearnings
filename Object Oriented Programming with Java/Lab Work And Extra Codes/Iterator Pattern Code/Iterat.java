@@ -3,7 +3,6 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 public class Iterat {
-
 	public static void main(String[] args) {
 		// Make a collection
 	    ArrayList<String> student = new ArrayList<String>();
@@ -15,16 +14,9 @@ public class Iterat {
 	    // Get the iterator
 	    Iterator<String> it = student.iterator();
 
-	    
-
 	 // Traversing elements
 		while(it.hasNext()){
 			System.out.println(it.next());			
-		}	
-
-				
-		
-		
+		}		
 	}
-
 }
