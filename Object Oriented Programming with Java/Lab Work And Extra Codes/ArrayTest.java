@@ -1,7 +1,4 @@
-
 public class ArrayTest {
-
-	
 	public static void main(String[] args) {
 		int[] myList = {1,2,3,4,5};
 
@@ -24,7 +21,4 @@ public class ArrayTest {
 	      }
 	      System.out.println("Max is " + max);  
 	   }
-	
 	}
-
-
