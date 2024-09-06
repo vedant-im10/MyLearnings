@@ -1,8 +1,5 @@
 import java.util.Scanner;
-
 public class MaxProfitLoss {
-
-
 	public static void main(String[] args) {
 		// take the string input from user
 		int n,maxprof = 0, maxlos=0;
@@ -11,22 +8,16 @@ public class MaxProfitLoss {
 		n = s.nextInt();
         int a[] = new int[n];
         System.out.println("Enter all the elements:");		
-        for(int i = 0; i < n; i++)
-
+        
+	for(int i = 0; i < n; i++)
         {
-
             a[i] = s.nextInt();
-                       
-
         }
         s.close();  
-        for(int i = 0; i < n; i++)
-
+        
+	for(int i = 0; i < n; i++)
         {
-
             System.out.print(a[i] + " ");
-                       
-
         }
         
         for(int i=0;i<n-1;i++)
@@ -40,7 +31,5 @@ public class MaxProfitLoss {
         
         System.out.println("\n" + "maximum profit = " + maxprof);
         System.out.println("maximum loss = " + maxlos);
-        
 	}
-
 }
