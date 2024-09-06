@@ -1,7 +1,4 @@
-
 public class StringJava {
-
-	
 	public static void main(String[] args) {
 		 String str = "Learnjava"; 
 		 System.out.println("str = " + str);
@@ -12,10 +9,6 @@ public class StringJava {
 		 System.out.println(str.charAt(5));
 		 System.out.println(str.length());
 		 char[] array= str22.toCharArray();
-		 System.out.println(array[0]);
-		 
-		 
-		 
+		 System.out.println(array[0]);	 
 	}
-
 }
