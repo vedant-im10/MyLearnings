@@ -1,9 +1,11 @@
 interface Printable{  
-void print();  
+	void print();  
 }  
+
 interface Showable{  
-void print();  
+	void print();  
 }  
+
 public class MultipleInheritance  implements Printable, Showable {
 	public void print()
 	{System.out.println("Hello");}
@@ -11,5 +13,4 @@ public class MultipleInheritance  implements Printable, Showable {
 		MultipleInheritance obj = new MultipleInheritance();  
 		obj.print(); 
 	}
-
 }
