@@ -1,6 +1,4 @@
-
 public class CompoundassignOp {
-
 	/**
 	 * @param args
 	 */
@@ -53,5 +51,4 @@ public class CompoundassignOp {
 		  bt |= 4;
 		  System.out.println("bt: " + bt);
 	}
-
 }
