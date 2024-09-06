@@ -1,4 +1,3 @@
-
 public class Box extends Rectangle {
     private double height;
     
@@ -9,6 +8,7 @@ public class Box extends Rectangle {
      else 
      {height = 0;}	 
     }
+	
     public void getheight() 
     {System.out.println("height = " + height);} 
     
@@ -27,5 +27,4 @@ public class Box extends Rectangle {
     Rectangle recbox = new Box();
     recbox.getarea();
 	}
-
 }
