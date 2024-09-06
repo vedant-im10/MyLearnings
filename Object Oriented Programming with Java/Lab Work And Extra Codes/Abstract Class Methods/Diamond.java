@@ -1,4 +1,3 @@
-
 public class Diamond extends Shape {
     public void draw()
     {System.out.println("Draw a diamond");}
@@ -6,5 +5,4 @@ public class Diamond extends Shape {
          Diamond mydia = new Diamond();
          mydia.draw();
 	}
-
 }
