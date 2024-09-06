@@ -1,6 +1,4 @@
-
 public class BitwiseOp {
-
 	/**
 	 * @param args
 	 */
@@ -32,5 +30,4 @@ public class BitwiseOp {
 		  num3 = num1 >>> 2;
 		  System.out.println("num1 >>> 1 = " + num3 );
 	}
-
 }
