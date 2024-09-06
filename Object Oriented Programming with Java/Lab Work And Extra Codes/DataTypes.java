@@ -1,12 +1,9 @@
 public class DataTypes {
-
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		
 		// byte, short, integer , long
-		
 		int i = 50; //Declare a variable i as an integer and assign value to it
 		//i = 50;
 		System.out.println("i = " + i);
@@ -33,7 +30,6 @@ public class DataTypes {
         //boolean
         boolean b = true; // declare a variable of type boolean
         System.out.println("b = " + b);
-        
         System.out.println("c = " + c);
 	}
 }
