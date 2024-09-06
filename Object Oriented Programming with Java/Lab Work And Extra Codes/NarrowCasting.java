@@ -1,4 +1,3 @@
-
 public class NarrowCasting {
    	  public static void main(String[] args) {
 		    double myDouble = 8.75;
