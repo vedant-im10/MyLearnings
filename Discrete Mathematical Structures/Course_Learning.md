@@ -1,6 +1,6 @@
 # Discrete Mathematical Structures: Comprehensive Learning Journey
 
-##Introduction
+## Introduction
 The "Discrete Mathematical Structures" course provided an in-depth exploration of the foundational mathematical principles that underpin computer science and engineering. The course spanned a range of topics, including logic, set theory, combinatorics, graph theory, and algebraic structures. Additionally, I applied these concepts through various coding assignments and projects, which enhanced my understanding and enabled me to solve complex computational problems effectively. This summary documents the key concepts, skills, and coding practices I developed throughout the course.
 
 ## Course Structure and Key Learnings
