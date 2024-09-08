@@ -1,12 +1,13 @@
 //
 //  main.c
 //
-//  Implement Kruskal’s algorithm to find a minimum spanning tree for a weighted undirected graph.
+//  Implement Kruskalâ€™s algorithm to find a minimum spanning tree for a weighted undirected graph.
 //
 //  Created by VEDANT on 03/11/20.
-//  Copyright © 2020 VEDANT. All rights reserved.
+//  Copyright Â© 2020 VEDANT. All rights reserved.
 //
 /* BY PATEL VEDANT H. - 19BCP138 - COMPUTER BRANCH */
+
 #include<stdio.h>
 #include<conio.h>
 #include<stdbool.h>
