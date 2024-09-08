@@ -4,9 +4,10 @@
 //  Write a program to evaluate a Postfix expression using stack.
 //
 //  Created by VEDANT on 10/11/20.
-//  Copyright © 2020 VEDANT. All rights reserved.
+//  Copyright Â© 2020 VEDANT. All rights reserved.
 //
 /* BY PATEL VEDANT H. - 19BCP138 - COMPUTER BRANCH */
+
 #include <stdio.h>
 #define MAX 20
 #include <math.h>
