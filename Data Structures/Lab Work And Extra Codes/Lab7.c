@@ -3,9 +3,10 @@
 //  Write a menu driven program to implement the following Queue operations using Linked List: (i) Enque (ii) Deque (iii) Traverse
 //
 //  Created by VEDANT on 19/10/20.
-//  Copyright © 2020 VEDANT. All rights reserved.
+//  Copyright Â© 2020 VEDANT. All rights reserved.
 //
 /* BY PATEL VEDANT H. - 19BCP138 - COMPUTER BRANCH */
+
 #include <stdio.h>
 #include <stdlib.h>
 
