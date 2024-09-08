@@ -4,9 +4,10 @@
 //       1.Push  2.PoP  3.Traverse(Print all elements)
 //
 //  Created by VEDANT on 22/09/20.
-//  Copyright © 2020 VEDANT. All rights reserved.
+//  Copyright Â© 2020 VEDANT. All rights reserved.
 //
 /* BY PATEL VEDANT H. - 19BCP138 - COMPUTER BRANCH */
+
 #include <stdio.h>
 #define MAX 10
 struct stack{
@@ -104,4 +105,3 @@ void traverse(void){
     }
 }
 /* BY PATEL VEDANT H. - 19BCP138 - COMPUTER BRANCH */
-
