@@ -5,9 +5,10 @@
 //    (i) Insert_Node (ii) Inorder_Traverse (iii) Preorder_Traverse (iv) Postorder_Traverse (v) Count_Leaves (vi) Find_Height.
 //
 //  Created by VEDANT on 28/10/20.
-//  Copyright © 2020 VEDANT. All rights reserved.
+//  Copyright Â© 2020 VEDANT. All rights reserved.
 //
 /* BY PATEL VEDANT H. - 19BCP138 - COMPUTER BRANCH */
+
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
