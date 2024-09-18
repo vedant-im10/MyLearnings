@@ -116,6 +116,6 @@ This repository includes detailed learning summaries for the following courses:
 3. **Leverage the Skills and Insights**: Apply the insights gained from these courses to your own learning or professional projects.
 
 ## 📫 Contact
-If you have any questions, suggestions, or would like to discuss these topics further, feel free to contact me at patelved@usc.edu.
+If you have any questions, suggestions, or would like to discuss these topics further, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vedant1607/).
 
 Thank you for exploring my learning journey!
